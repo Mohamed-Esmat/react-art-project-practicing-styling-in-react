@@ -30,7 +30,7 @@ src/
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repo
+   cd react-art-project-practicing-styling-in-react
    ```
 3. Install dependencies:
    ```sh
